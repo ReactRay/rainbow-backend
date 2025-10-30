@@ -144,3 +144,4 @@ C:\Users\ASUS\Desktop\API Core\RainbowProject\RainbowProject\bin\Debug\net8.0\ru
 C:\Users\ASUS\Desktop\API Core\RainbowProject\RainbowProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\ASUS\Desktop\API Core\RainbowProject\RainbowProject\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\ASUS\Desktop\API Core\RainbowProject\RainbowProject\obj\Debug\net8.0\RainbowProject.csproj.CopyComplete
+C:\Users\ASUS\Desktop\API Core\RainbowProject\RainbowProject\obj\Debug\net8.0\RainbowProject.sourcelink.json

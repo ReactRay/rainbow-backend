@@ -1,0 +1,67 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.log
+*.temp
+*.bak
+*.old
+
+# Environment & secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+*.env
+.env
+
+# Logs
+logs/
+*.log
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+*.nuspec
+
+# Rider / JetBrains
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Auto generated files
+GeneratedFiles/
+MigrationBackup/
+
+# Publish output
+publish/
+dist/
+
+# Coverage / test reports
+*.coverage
+*.coveragexml
+TestResults/
+coverage/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Git itself
+.gitignore

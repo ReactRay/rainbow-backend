@@ -56,9 +56,11 @@ namespace RainbowProject.Controllers
             var token = _jwt.CreateToken(user);
             return Ok(new AuthResponseDto
             {
+                Id = user.Id,
                 Token = token,
                 Email = user.Email,
-                UserName = user.UserName
+                UserName = user.UserName,
+                Image = user.UserImage
             });
         }
 

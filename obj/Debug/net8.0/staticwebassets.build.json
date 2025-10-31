@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "//SwQYWVJEjYTk5bDwoeNXqam1OJT1h+ypTMSdBetDY=",
+  "Hash": "Ksm7OaoNPu1zRExIdAOt3dIUjXzu4+l1EPwqaLzDNuA=",
   "Source": "RainbowProject",
   "BasePath": "_content/RainbowProject",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
